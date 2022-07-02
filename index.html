@@ -1,20 +1,25 @@
 	<!DOCTYPE html>
 	<html lang="zxx" class="no-js">
 	<head>
-		<!-- Mobile Specific Meta -->
-		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
-		<!-- Favicon-->
-		<link rel="shortcut icon" href="img/fav.png">
-		<!-- Author Meta -->
-		<meta name="author" content="codepixer">
-		<!-- Meta Description -->
-		<meta name="description" content="">
-		<!-- Meta Keyword -->
-		<meta name="keywords" content="">
-		<!-- meta character set -->
-		<meta charset="UTF-8">
-		<!-- Site Title -->
-		<title>Book</title>
+		<link rel="shortcut icon" href="img/favicon.ico" type="image/x-icon" />
+		<meta http-equiv="Content-Language" content="pt-br, en, fr, it">
+		<meta name="viewport" content="width=device-width, initial-scale=1.0">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="description" content="Empresas de software em sorocaba">
+		<meta name="description" content="Empresas de marketing em sorocaba">
+		<meta property="og:description" content="Serviços sobre as tecnologias da Web aberta, incluindo serviços e produtos.">
+		<meta property="og:title" content="Stdio Software e Marketing em Sorocaba">
+		<meta property="og:type" content="Serviços sobre as tecnologias da Web aberta, incluindo serviços e produtos.">
+		<meta property="og:image" content="https://raw.githubusercontent.com/ThiagoStdio/ThiagoStdio/master/assets/catsa2.png">
+		<meta property="og:site_name" content="Stdio Comunicação">
+		<meta name="googlebot" content="Desenvolviemento de software em Sorocaba" />
+		<meta name="googlebot" content="STDIO SOROCABA" />
+		<meta name="twitter:card" content="Serviços sobre as tecnologias da Web aberta, incluindo serviços e produtos.">
+		<meta name="twitter:image" content="https://raw.githubusercontent.com/ThiagoStdio/ThiagoStdio/master/assets/catsa2.png">
+	   
+		<link href="https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,200..900;1,700" rel="stylesheet">
+		
+		<title>Ebook</title>
 
 		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
 			<!--
@@ -35,19 +40,21 @@
 			    <div class="container">
 			    	<div class="row align-items-center justify-content-between d-flex">
 				      <div id="logo">
-				        <a href="index.html"><img src="img/logo.png" alt="" title="" /></a>
+				        <a href="https://www.facebook.com/Stdio.comunicacao"><img src="img/logo.png" alt="" title="" /></a>
 				      </div>
 				      <nav id="nav-menu-container">
 				        <ul class="nav-menu">
-				          <li class="menu-active"><a href="#home">Ínicio</a></li>
+				          <!--li class="menu-active"><a href="#home">Ínicio</a></li>
 				          <li><a href="#about">Sobre nós</a></li>
 				          <li><a href="#fact">Ler Mais</a></li>
-				          <li><a href="#price">Consultoria</a></li>
-				          <li><a href="#course">Download Ebook</a></li>
-				          <li class="menu-has-children"><a href="">Outros</a>
+						  <li class="menu-has-children"><a href="">Outros</a>
+				          <li><a href="#price">Consultoria</a></li-->
+							
+				          <li><a href="https://wa.link/0b5mmu">Download Ebook</a></li>
+				          
 				            <ul>
-				              <li><a href="generic.html">Generic</a></li>
-				              <li><a href="elements.html">Elements</a></li>
+				              <li><a href="https://www.facebook.com/Stdio.comunicacao">Generic</a></li>
+				              <li><a href="https://www.facebook.com/Stdio.comunicacao">Elements</a></li>
 				            </ul>
 				          </li>
 				        </ul>
@@ -62,14 +69,14 @@
 				<div class="container">
 					<div class="row fullscreen d-flex align-items-center justify-content-start">
 						<div class="banner-content col-lg-7">
-							<h5 class="text-white text-uppercase">Stdio Comunicação Presents</h5>
+							<h5 class="text-white text-uppercase">LANÇAMENTO</h5>
 							<h1 class="text-uppercase">
-								Marketing para Imobiliaria				
+								Marketing para Imobiliária				
 							</h1>
 							<p class="text-white pt-20 pb-20">
-								TRÁFEGO NA PRIMEIRA PUBLICAÇÃO <br> SUA PRIMEIRA VENDA EM POUCOS DIAS
+								TRÁFEGO NA PRIMEIRA PUBLICAÇÃO <br> SUA PRIMEIRA VENDA EM POUCOS CLICKS
 							</p>
-							<a href="#" class="primary-btn text-uppercase">Clique para Download</a>
+							<a href="https://wa.link/0b5mmu" class="primary-btn text-uppercase">CLIQUE AQUI PARA OBTER</a>
 						</div>
 						<div class="col-lg-5 banner-right">
 							<img class="img-fluid" src="img/header-img.png" alt="">
@@ -90,13 +97,13 @@
 						</div>
 						<div class="col-lg-6 col-md-12 no-padding info-rigth">
 							<div class="info-content">
-								<h2 class="pb-30">Dr. Travor James</h2>
+								<h2 class="pb-30">Thiago Martins</h2>
 								<p>
-									inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct standards – especially in the workplace. That’s why it’s crucial that, as women.								
+									Criador de software e deste ebook que apresenta como ter sucesso em seu anúncio, sendo objetivo para seu principal cliente que está buscando a inovação e criatividade.								
 								</p>
 								<br>
 								<p>
-									inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct standards – especially in the workplace. That’s why it’s crucial that, as women. inappropriate behavior is often laughed off as “boys will be boys,” women face higher conduct standards – especially in the workplace. That’s why it’s crucial that, as women.									
+									É uma enorme satisfação ter você com a gente, baixe o livro clicando aqui e veja o quanto seus novos anúncios vai ter muito mais visibilidade e conversão, apenas com este ebook.								
 								</p>
 								<br>
 								<img src="img/signature.png" alt="">
@@ -114,8 +121,8 @@
 					<div class="row d-flex justify-content-center">
 						<div class="menu-content pb-40 col-lg-8">
 							<div class="title text-center">
-								<h1 class="mb-10">Some Features that Made us Unique</h1>
-								<p>Who are in extremely love with eco friendly system.</p>
+								<h1 class="mb-10">Gostou do ebook <a href="https://www.facebook.com/Stdio.comunicacao">clique aqui</a></h1>
+								<p>Expasão comercial do seu nicho em poucos minutos</p>
 							</div>
 						</div>
 					</div>						
@@ -123,322 +130,27 @@
 			</section>
 			<!-- End fact Area -->
 			
-			<!-- Start counter Area -->
-			<section class="counter-area">
-				<div class="container">
-					<div class="row">
-						<div class="col-lg-3 col-md-6">
-							<div class="single-counter">
-								<h1 class="counter">2536</h1>
-								<p>Happy Clients</p>								
-							</div>
-						</div>
-						<div class="col-lg-3 col-md-6">
-							<div class="single-counter">
-								<h1 class="counter">6784</h1>
-								<p>Total Projects</p>								
-							</div>
-						</div>
-						<div class="col-lg-3 col-md-6">
-							<div class="single-counter">
-								<h1 class="counter">1059</h1>
-								<p>Cups Coffee</p>								
-							</div>
-						</div>
-						<div class="col-lg-3 col-md-6">
-							<div class="single-counter">
-								<h1 class="counter">12239</h1>
-								<p>Tickets Submitted</p>								
-							</div>
-						</div>												
-					</div>
-				</div>	
-			</section>
-			<!-- end counter Area -->
-			
-			<!-- Start price Area -->
-			<section class="price-area section-gap" id="price">
-				<div class="container">
-					<div class="row d-flex justify-content-center">
-						<div class="menu-content pb-60 col-lg-8">
-							<div class="title text-center">
-								<h1 class="mb-10">Purchase whatever you want</h1>
-								<p>Who are in extremely love with eco friendly system.</p>
-							</div>
-						</div>
-					</div>						
-					<div class="row">
-						<div class="col-lg-4">
-							<div class="single-price no-padding">
-								<div class="price-top">
-									<h4>PDF</h4>
-								</div>
-								<p>
-									Who are in extremely love with <br>
-									eco friendly system.
-								</p>
-								<div class="price-bottom">
-									<h1><span>$</span> 79.99</h1>
-									<a href="#" class="primary-btn header-btn">Purchase Now</a>
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-4">
-							<div class="single-price no-padding">
-								<div class="price-top">
-									<h4>E-Book</h4>
-								</div>
-								<p>
-									Who are in extremely love with <br>
-									eco friendly system.
-								</p>
-								<div class="price-bottom">
-									<h1><span>$</span> 99.99</h1>
-									<a href="#" class="primary-btn header-btn">Purchase Now</a>
-								</div>
-							</div>
-						</div>
-						<div class="col-lg-4">
-							<div class="single-price no-padding">
-								<div class="price-top">
-									<h4>Print Copy</h4>
-								</div>
-								<p>
-									Who are in extremely love with <br>
-									eco friendly system.
-								</p>
-								<div class="price-bottom">
-									<h1><span>$</span> 59.99</h1>
-									<a href="#" class="primary-btn">Purchase Now</a>
-								</div>
-							</div>				
-						</div>								
-					</div>
-				</div>	
-			</section>
-			<!-- End price Area -->
-			
-			<!-- Start course Area -->
-			<section class="course-area section-gap" id="course">
-				<div class="container">
-					<div class="row d-flex justify-content-center">
-						<div class="menu-content pb-60 col-lg-9">
-							<div class="title text-center">
-								<h1 class="mb-10">Top Courses That are open for Students</h1>
-								<p>Who are in extremely love with eco friendly system.</p>
-							</div>
-						</div>
-					</div>						
-					<div class="row">
-						<div class="active-course-carusel">
-							<div class="single-course item">
-								<img class="img-fluid" src="img/c1.jpg" alt="">
-								<p class="sale-btn">For Sale</p>
-								<div class="details">
-									<a href="#"><h4>Breakthrough Thinking <span class="price float-right">$25</span></h4></a>	
-									<p>
-										Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-									</p>
-								</div>
-							</div>
-							<div class="single-course item">
-								<img class="img-fluid" src="img/c2.jpg" alt="">
-								<p class="sale-btn">For Sale</p>
-								<div class="details">
-									<a href="#"><h4>Breakthrough Thinking <span class="price float-right">$25</span></h4></a>	
-									<p>
-										Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-									</p>
-								</div>
-							</div>
-							<div class="single-course item">
-								<img class="img-fluid" src="img/c3.jpg" alt="">
-								<p class="sale-btn">For Sale</p>
-								<div class="details">
-									<a href="#"><h4>Breakthrough Thinking <span class="price float-right">$25</span></h4></a>	
-									<p>
-										Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore et dolore magna
-									</p>
-								</div>
-							</div>								
-						</div>											
-					</div>
-				</div>	
-			</section>
-			<!-- End course Area -->
-			
-			<!-- Start call-to-action Area -->
-			<section class="call-to-action-area section-gap">
-				<div class="container">
-					<div class="row justify-content-center top">
-						<div class="col-lg-12">
-							<h1 class="text-white text-center">Download Our App for all Platforms</h1>
-							<p class="text-white text-center mt-30">
-								It won’t be a bigger problem to find one video game lover in your neighbor. Since the introduction of Virtual Game, it has been achieving great heights so far as its popularity and technological advancement are concerned.
-							</p>							
-						</div>
-					</div>
-					<div class="row justify-content-center d-flex">	
-						<div class="download-button d-flex flex-row justify-content-center mt-30">		
-							<div class="buttons flex-row d-flex">
-								<i class="fa fa-apple" aria-hidden="true"></i>
-								<div class="desc">
-									<a href="#">
-										<p>
-											<span>Available</span> <br>
-											on App Store
-										</p>
-									</a>
-								</div>
-							</div>
-							<div class="buttons flex-row d-flex">
-								<i class="fa fa-android" aria-hidden="true"></i>
-								<div class="desc">
-									<a href="#">
-										<p>
-											<span>Available</span> <br>
-											on Play Store
-										</p>
-									</a>
-								</div>
-							</div>
-						</div>						
-					</div>
-				</div>	
-			</section>
-			<!-- End call-to-action Area -->
-
-			<!-- Start testomial Area -->
-			<section class="testomial-area section-gap">
-				<div class="container">
-					<div class="row d-flex justify-content-center">
-						<div class="menu-content pb-60 col-lg-8">
-							<div class="title text-center">
-								<h1 class="mb-10">What our Reader’s Say about us</h1>
-								<p>Who are in extremely love with eco friendly system.</p>
-							</div>
-						</div>
-					</div>						
-					<div class="row">
-						<div class="active-tstimonial-carusel">
-							<div class="single-testimonial item">
-								<img class="mx-auto" src="img/t1.png" alt="">
-								<p class="desc">
-									Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker, projector, hardware and more. laptop accessory
-								</p>
-								<h4>Mark Alviro Wiens</h4>
-								<p>
-									CEO at Google
-								</p>
-							</div>
-							<div class="single-testimonial item">
-								<img class="mx-auto" src="img/t2.png" alt="">
-								<p class="desc">
-									Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker, projector, hardware and more. laptop accessory
-								</p>
-								<h4>Mark Alviro Wiens</h4>
-								<p>
-									CEO at Google
-								</p>
-							</div>
-							<div class="single-testimonial item">
-								<img class="mx-auto" src="img/t3.png" alt="">
-								<p class="desc">
-									Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker, projector, hardware and more. laptop accessory
-								</p>
-								<h4>Mark Alviro Wiens</h4>
-								<p>
-									CEO at Google
-								</p>
-							</div>	
-							<div class="single-testimonial item">
-								<img class="mx-auto" src="img/t1.png" alt="">
-								<p class="desc">
-									Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker, projector, hardware and more. laptop accessory
-								</p>
-								<h4>Mark Alviro Wiens</h4>
-								<p>
-									CEO at Google
-								</p>
-							</div>
-							<div class="single-testimonial item">
-								<img class="mx-auto" src="img/t2.png" alt="">
-								<p class="desc">
-									Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker, projector, hardware and more. laptop accessory
-								</p>
-								<h4>Mark Alviro Wiens</h4>
-								<p>
-									CEO at Google
-								</p>
-							</div>
-							<div class="single-testimonial item">
-								<img class="mx-auto" src="img/t3.png" alt="">
-								<p class="desc">
-									Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker, projector, hardware and more. laptop accessory
-								</p>
-								<h4>Mark Alviro Wiens</h4>
-								<p>
-									CEO at Google
-								</p>
-							</div>															
-							<div class="single-testimonial item">
-								<img class="mx-auto" src="img/t1.png" alt="">
-								<p class="desc">
-									Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker, projector, hardware and more. laptop accessory
-								</p>
-								<h4>Mark Alviro Wiens</h4>
-								<p>
-									CEO at Google
-								</p>
-							</div>
-							<div class="single-testimonial item">
-								<img class="mx-auto" src="img/t2.png" alt="">
-								<p class="desc">
-									Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker, projector, hardware and more. laptop accessory
-								</p>
-								<h4>Mark Alviro Wiens</h4>
-								<p>
-									CEO at Google
-								</p>
-							</div>
-							<div class="single-testimonial item">
-								<img class="mx-auto" src="img/t3.png" alt="">
-								<p class="desc">
-									Accessories Here you can find the best computer accessory for your laptop, monitor, printer, scanner, speaker, projector, hardware and more. laptop accessory
-								</p>
-								<h4>Mark Alviro Wiens</h4>
-								<p>
-									CEO at Google
-								</p>
-							</div>														
-						</div>
-					</div>
-				</div>	
-			</section>
-			<!-- End testomial Area -->
-			
-
 			<!-- start footer Area -->		
 			<footer class="footer-area section-gap">
 				<div class="container">
 					<div class="row">
 						<div class="col-lg-5 col-md-6 col-sm-6">
 							<div class="single-footer-widget">
-								<h6>About Us</h6>
+								<h6>Quem somos</h6>
 								<p>
-									Lorem ipsum dolor sit amet, consectetur adipisicing elit, sed do eiusmod tempor incididunt ut labore dolore magna aliqua.
+									Somos desenvolvedores de sistemas e criadores de tráfego por meio das midias e gestão apurada enquanto os produtos estivem online
 								</p>
 								<p class="footer-text">
-								<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | This template is made with <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://colorlib.com" target="_blank">Colorlib</a>
-<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
+								<!-- Link back to Stdio Comunicação can't be removed. Template is licensed under CC BY 3.0. -->
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> Direitos Reservados | Criado com o <i class="fa fa-heart-o" aria-hidden="true"></i> por <a href="https://www.facebook.com/Stdio.comunicacao" target="_blank">Stdio Comunicação</a>
+<!-- Link back to Stdio Comunicação can't be removed. Template is licensed under CC BY 3.0. -->
 								</p>								
 							</div>
 						</div>
 						<div class="col-lg-5  col-md-6 col-sm-6">
-							<div class="single-footer-widget">
-								<h6>Newsletter</h6>
-								<p>Stay update with our latest</p>
+							<!--div class="single-footer-widget">
+								<h6>Orgulhosamente por Thiago Martins</h6>
+								<p></p>
 								<div class="" id="mc_embed_signup">
 									<form target="_blank" novalidate="true" action="https://spondonit.us12.list-manage.com/subscribe/post?u=1462626880ade1ac87bd9c93a&amp;id=92a4423d01" method="get" class="form-inline">
 										<input class="form-control" name="EMAIL" placeholder="Enter Email" onfocus="this.placeholder = ''" onblur="this.placeholder = 'Enter Email '" required="" type="email">
@@ -450,17 +162,17 @@ Copyright &copy;<script>document.write(new Date().getFullYear());</script> All r
 										<div class="info"></div>
 									</form>
 								</div>
-							</div>
+							</div-->
 						</div>						
 						<div class="col-lg-2 col-md-6 col-sm-6 social-widget">
 							<div class="single-footer-widget">
-								<h6>Follow Us</h6>
-								<p>Let us be social</p>
+								<h6>Segue A gente</h6>
+								<p>MAIS CONTEÚDO AQUI</p>
 								<div class="footer-social d-flex align-items-center">
-									<a href="#"><i class="fa fa-facebook"></i></a>
-									<a href="#"><i class="fa fa-twitter"></i></a>
+									<a href="https://www.facebook.com/Stdio.comunicacao"><i class="fa fa-facebook"></i></a>
+									<!--a href="#"><i class="fa fa-twitter"></i></a>
 									<a href="#"><i class="fa fa-dribbble"></i></a>
-									<a href="#"><i class="fa fa-behance"></i></a>
+									<a href="#"><i class="fa fa-behance"></i></a-->
 								</div>
 							</div>
 						</div>							
